@@ -17,6 +17,7 @@ int palindrome(char word[]);
 
 int main()
 {
+	//test test commit
 	//1. 
 	char word[] = "Hello";
 	int count = CountL(word);
